@@ -1,0 +1,22 @@
+{
+    "name": "brackets-light-pro",
+    "displayName": "Brackets Light Pro",
+    "description": "A theme basic Brackets Light",
+    "version": "0.0.1",
+    "publisher": "eryouhao",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Brackets Light Pro",
+                "uiTheme": "vs",
+                "path": "./themes/Brackets Light Pro-color-theme.json"
+            }
+        ]
+    }
+}

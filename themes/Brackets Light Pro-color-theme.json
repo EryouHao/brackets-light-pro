@@ -1,0 +1,16 @@
+{
+	"tokenColors": "./brackets-light-pro.tmTheme",
+	"colors": {
+		"editor.background": "#f8f8f8",
+		"editorCursor.foreground": "#000000",
+		"editor.foreground": "#535353",
+		"editor.lineHighlightBackground": "#f8f8f8",
+		"editor.selectionBackground": "#abdffa",
+		"activityBar.background": "#dddddd",
+		"activityBar.foreground": "#333333",
+		"statusBar.background": "#dddddd",
+		"statusBar.foreground": "#333333",
+		"statusBarItem.hoverBackground": "#cccccc"
+	},
+	"name": "Brackets Light Pro"
+}
