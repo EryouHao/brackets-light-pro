@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "brackets-light-pro"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Brackets Light Pro
+## This is a theme for VSCode basic Brackets Light and more beautiful.
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+If you like it or you have other idea, welcome to my github to write issues PR and star.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+github: https://github.com/EryouHao/brackets-light-pro
+
 
 **Enjoy!**
