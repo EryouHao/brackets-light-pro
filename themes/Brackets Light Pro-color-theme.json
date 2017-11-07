@@ -1,5 +1,6 @@
 {
 	"tokenColors": "./brackets-light-pro.tmTheme",
+	"name": "Brackets Light Pro",
 	"colors": {
 		"editor.background": "#f8f8f8",
 		"editorCursor.foreground": "#000000",
@@ -7,10 +8,10 @@
 		"editor.lineHighlightBackground": "#f8f8f8",
 		"editor.selectionBackground": "#abdffa",
 		"activityBar.background": "#dddddd",
-		"activityBar.foreground": "#333333",
+		"activityBar.foreground": "#000000",
 		"statusBar.background": "#dddddd",
-		"statusBar.foreground": "#333333",
-		"statusBarItem.hoverBackground": "#cccccc"
-	},
-	"name": "Brackets Light Pro"
+		"statusBar.foreground": "#000000",
+		"statusBarItem.hoverBackground": "#cccccc",
+		"editorLineNumber.foreground": "#959595"
+	}
 }
