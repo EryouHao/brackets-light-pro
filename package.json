@@ -1,7 +1,8 @@
 {
     "name": "brackets-light-pro",
     "displayName": "Brackets Light Pro",
-    "description": "A theme basic Brackets Light",
+    "icon": "icon.png"
+    "description": "A theme basic Brackets Light and more beautiful.",
     "version": "0.0.1",
     "publisher": "eryouhao",
     "engines": {
