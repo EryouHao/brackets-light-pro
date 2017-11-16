@@ -4,14 +4,18 @@
 	"colors": {
 		"editor.background": "#f8f8f8",
 		"editorCursor.foreground": "#000000",
-		"editor.foreground": "#535353",
+		"editor.foreground": "#353535",
 		"editor.lineHighlightBackground": "#f8f8f8",
 		"editor.selectionBackground": "#abdffa",
-		"activityBar.background": "#dddddd",
+		"activityBar.background": "#c3c7cd",
 		"activityBar.foreground": "#000000",
-		"statusBar.background": "#dddddd",
+		"statusBar.background": "#a4a9b2",
 		"statusBar.foreground": "#000000",
 		"statusBarItem.hoverBackground": "#cccccc",
-		"editorLineNumber.foreground": "#959595"
+		"editorLineNumber.foreground": "#959595",
+		"sideBar.background": "#ebedef",
+		"titleBar.activeBackground": "#d9d7d9",
+		"list.hoverBackground": "#dbdde0",
+		"list.inactiveSelectionBackground": "#c7cbd1"
 	}
 }
