@@ -1,5 +1,7 @@
 # Brackets Light Pro
 
+[![install](http://vsmarketplacebadge.apphb.com/installs/eryouhao.brackets-light-pro.svg?style=flat-flat)](https://marketplace.visualstudio.com/items?itemName=eryouhao.brackets-light-pro)
+
 This is a theme for VSCode basic Brackets Light and more beautiful.
 
 If you like it or you have other idea, welcome to my github to write issues PR and star.
