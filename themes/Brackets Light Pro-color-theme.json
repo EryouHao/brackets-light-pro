@@ -11,6 +11,7 @@
 		"activityBar.foreground": "#000000",
 		"statusBar.background": "#a4a9b2",
 		"statusBar.foreground": "#000000",
+		"statusBar.noFolderBackground": "#a4a9b2",
 		"statusBarItem.hoverBackground": "#cccccc",
 		"editorLineNumber.foreground": "#959595",
 		"sideBar.background": "#ebedef",
