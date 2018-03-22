@@ -3,7 +3,7 @@
     "displayName": "Brackets Light Pro",
     "icon": "icon.png",
     "description": "A theme basic Brackets Light and more beautiful.",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "publisher": "eryouhao",
     "engines": {
         "vscode": "^1.17.0"

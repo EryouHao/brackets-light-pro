@@ -13,10 +13,12 @@
 		"statusBar.foreground": "#000000",
 		"statusBar.noFolderBackground": "#a4a9b2",
 		"statusBarItem.hoverBackground": "#cccccc",
-		"editorLineNumber.foreground": "#959595",
+		"editorLineNumber.foreground": "#bbbbbb",
 		"sideBar.background": "#ebedef",
-		"titleBar.activeBackground": "#d9d7d9",
+		"titleBar.activeBackground": "#cccccc",
+		"titleBar.activeForeground": "#000000",
 		"list.hoverBackground": "#dbdde0",
-		"list.inactiveSelectionBackground": "#c7cbd1"
+		"list.inactiveSelectionBackground": "#c7cbd1",
+		"editorIndentGuide.background": "#eaeaea"
 	}
 }
