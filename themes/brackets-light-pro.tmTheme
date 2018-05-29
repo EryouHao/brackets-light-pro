@@ -651,6 +651,18 @@
             <string>#386ac3</string>
             </dict>
         </dict>
+        <!-- json -->
+        <dict>
+            <key>name</key>
+            <string>JSON Key</string>
+            <key>scope</key>
+            <string>support.type.property-name.json</string>
+            <key>settings</key>
+            <dict>
+            <key>foreground</key>
+            <string>#386ac3</string>
+            </dict>
+        </dict>
     </array>
     <key>uuid</key>
     <string>0efb0dc8-e056-4dba-b78b-712d909bc23b</string>
