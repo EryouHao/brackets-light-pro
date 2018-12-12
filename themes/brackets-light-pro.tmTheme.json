@@ -1,0 +1,18 @@
+{
+  "author": "Eryou Hao",
+  "name": "Brackets Light Pro",
+  "settings": [
+    {
+      "settings": {
+        "background": "#f8f8f8",
+        "caret": "#000000",
+        "foreground": "#535353",
+        "lineHighlight": "#f8f8f8",
+        "selection": "#abdffa",
+        "findHighlight": "#f7c44e",
+        "findHighlightForeground": "#121212"
+      }
+    }
+  ],
+  "uuid": "0efb0dc8-e056-4dba-b78b-712d909bc23b"
+}
