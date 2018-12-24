@@ -4,9 +4,12 @@ All notable changes to the "brackets-light-pro" extension will be documented in 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+- 0.4.2
+  
+  add typescript template string color
 - 0.4.0
   
-  added typescript support
+  add typescript support
 - 0.2.0
 
   change code color  

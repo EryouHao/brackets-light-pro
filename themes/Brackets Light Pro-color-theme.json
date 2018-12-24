@@ -417,10 +417,12 @@
       }
     },
     {
-      "name": "js template-expression",
+      "name": "js/ts template-expression",
       "scope": [
         "punctuation.definition.template-expression.begin.js",
-        "punctuation.definition.template-expression.end.js"
+        "punctuation.definition.template-expression.end.js",
+        "punctuation.definition.template-expression.begin.ts",
+        "punctuation.definition.template-expression.end.ts"
       ],
       "settings": {
         "foreground": "#386ac3"
@@ -428,7 +430,10 @@
     },
     {
       "name": "TemplateString",
-      "scope": "meta.template.expression.js",
+      "scope": [
+        "meta.template.expression.js",
+        "meta.template.expression.ts",
+      ],
       "settings": {
         "foreground": "#000000"
       }
