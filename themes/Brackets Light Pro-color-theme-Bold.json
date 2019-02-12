@@ -18,7 +18,8 @@
     "titleBar.activeForeground": "#000000",
     "list.hoverBackground": "#dbdde0",
     "list.inactiveSelectionBackground": "#c7cbd1",
-    "editorIndentGuide.background": "#eaeaea"
+    "editorIndentGuide.background": "#eaeaea",
+    "list.activeSelectionBackground": "#dfe4e7"
   },
   "tokenColors": [
     {
