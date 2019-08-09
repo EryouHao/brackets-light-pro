@@ -11,4 +11,6 @@ github: https://github.com/EryouHao/brackets-light-pro
 ## Screenshot
 ![Brackets Light Pro](https://raw.githubusercontent.com/EryouHao/brackets-light-pro/master/static/screenshot.png)
 
+Screenshot font is `Fantasque Sans Mono`, icon is `VSCode Great Icons`
+
 **Enjoy!**
