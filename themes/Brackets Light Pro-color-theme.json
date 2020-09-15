@@ -46,7 +46,7 @@
       "name": "Keyword operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#535353"
+        "foreground": "#386ac3"
       }
     },
     {
@@ -511,7 +511,14 @@
 				"settings": {
 						"foreground": "#386ac3"
 				}
-		},
+    },
+    {
+      "name": "Entity",
+      "scope": "entity",
+      "settings": {
+        "foreground": "#8431c5"
+      }
+    },
     {
         "name": "Classes",
         "scope": "entity.name.type.namespace",
