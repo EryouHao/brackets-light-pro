@@ -4,6 +4,9 @@ All notable changes to the "brackets-light-pro" extension will be documented in 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+- 0.4.5
+
+  add template expression highlight & string variable highlight
 - 0.4.4
 
   add `tsx` type file highlight support and change operator color
