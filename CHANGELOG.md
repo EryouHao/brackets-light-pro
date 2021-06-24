@@ -4,6 +4,11 @@ All notable changes to the "brackets-light-pro" extension will be documented in 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+
+- 0.4.6
+
+  fix quickinput & suggestion panel background error
+
 - 0.4.5
 
   add template expression highlight & string variable highlight

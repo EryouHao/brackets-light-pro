@@ -18,7 +18,11 @@
     "titleBar.activeForeground": "#000000",
     "list.hoverBackground": "#dbdde0",
     "list.inactiveSelectionBackground": "#c7cbd1",
-    "editorIndentGuide.background": "#eaeaea"
+    "editorIndentGuide.background": "#eaeaea",
+    "editorSuggestWidget.selectedBackground": "#dbdde0",
+    "editorSuggestWidget.selectedForeground": "#101c32",
+    "quickInputList.focusBackground": "#dbdde0",
+    "quickInputList.focusForeground": "#101c32"
   },
   "tokenColors": [
     {
