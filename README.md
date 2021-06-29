@@ -9,7 +9,7 @@ If you like it or you have other idea, welcome to my github to write issues PR a
 github: https://github.com/EryouHao/brackets-light-pro
 
 ## Screenshot
-![Brackets Light Pro](https://raw.githubusercontent.com/EryouHao/brackets-light-pro/master/static/screenshot.png)
+![Brackets Light Pro](https://raw.githubusercontent.com/EryouHao/brackets-light-pro/master/static/brackets-light-pro.png)
 
 Screenshot font is `Fantasque Sans Mono`, icon is `VSCode Great Icons`
 
