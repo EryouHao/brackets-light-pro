@@ -4,7 +4,7 @@
     "editor.background": "#f8f8f8",
     "editorCursor.foreground": "#000000",
     "editor.foreground": "#353535",
-    "editor.lineHighlightBackground": "#f8f8f8",
+    "editor.lineHighlightBackground": "#f0f0f0",
     "editor.selectionBackground": "#abdffa",
     "activityBar.background": "#c3c7cd",
     "activityBar.foreground": "#000000",
@@ -21,6 +21,7 @@
     "editorIndentGuide.background": "#eaeaea",
     "editorSuggestWidget.selectedBackground": "#dbdde0",
     "editorSuggestWidget.selectedForeground": "#101c32",
+	"editorSuggestWidget.focusHighlightForeground": "#386ac3",
     "quickInputList.focusBackground": "#dbdde0",
     "quickInputList.focusForeground": "#101c32"
   },
